@@ -1,0 +1,6 @@
+1. Projectni Perfect Pixel extensionda tekshirish
+2. Header menudagi tablarga ularning nomiga mos sectionga o'tganda avtomatik active class qo'shilishi
+3. Swiper Js dagi xatolikni tuzatish
+4. Swiper Js ning ichidagi pagination tugmalarini to'g'ri joylashtirish
+5. About section ichidagi filterning ichidagi tablarni responsive vaqtida ishlatilgan natijasini 		kompyuter kattaligiga         o'tkazilganda ham saqlanib qolishini taminlash
+6. Header menudagi tablarga ularning nomiga mos sectionga o'tganda , section chegarasidan o'tib ketishini to'g'irlash    (o'tib ketmasligi kerak)
